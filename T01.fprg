@@ -4,9 +4,9 @@
         <attribute name="name" value="T01"/>
         <attribute name="authors" value="LENOVO"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2024-09-06 11:29:08 AM"/>
+        <attribute name="saved" value="2024-09-06 11:48:18 AM"/>
         <attribute name="created" value="TEVOT1ZPO0xBUFRPUC0zR0tSNkMwRzsyMDI0LTA5LTA2OzEwOjA3OjIwIEFNOzI3NTc="/>
-        <attribute name="edited" value="TEVOT1ZPO0xBUFRPUC0zR0tSNkMwRzsyMDI0LTA5LTA2OzExOjI5OjA4IEFNOzE7Mjg3Ng=="/>
+        <attribute name="edited" value="TEVOT1ZPO0xBUFRPUC0zR0tSNkMwRzsyMDI0LTA5LTA2OzExOjQ4OjE4IEFNOzI7Mjg3OQ=="/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
@@ -17,14 +17,14 @@
             <input variable="ISBN"/>
             <input variable="Judul"/>
             <input variable="Penulis"/>
+            <input variable="TahunTerbit"/>
             <input variable="Penerbit"/>
             <input variable="FormatBuku"/>
-            <input variable="TahunTerbit"/>
-            <input variable="Stok"/>
             <input variable="HargaPembelian"/>
             <input variable="MinimumMargin"/>
+            <input variable="Stok"/>
             <input variable="Rating"/>
-            <output expression="ISBN &amp;&quot;|&quot; &amp;Judul &amp;&quot;|&quot; &amp;Penulis &amp;&quot;|&quot; &amp;Penerbit &amp;&quot;|&quot; &amp;FormatBuku &amp;&quot;|&quot; &amp;TahunTerbit &amp;&quot;|&quot; &amp;Stok &amp;&quot;|&quot; &amp;HargaPembelian &amp;&quot;|&quot; &amp;MinimumMargin &amp;&quot;|&quot; &amp;Rating" newline="True"/>
+            <output expression="ISBN &amp;&quot;|&quot; &amp;Judul &amp;&quot;|&quot; &amp;Penulis &amp;&quot;|&quot; &amp;TahunTerbit &amp;&quot;|&quot; &amp;Penerbit &amp;&quot;|&quot; &amp;FormatBuku &amp;&quot;|&quot; &amp;HargaPembelian &amp;&quot;|&quot; &amp;MinimumMargin &amp;&quot;|&quot; &amp;Stok &amp;&quot;|&quot; &amp;Rating" newline="True"/>
         </body>
     </function>
 </flowgorithm>
