@@ -1,5 +1,5 @@
 // 12S24024 - Yesika Nadia Saragih
-// 12S24027 - Grasia Gayatri Simanullang
+// 12S24027 - Grasia Gayatri Simanullang.
 
 import java.util.*;
 import java.lang.Math;
